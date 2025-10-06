@@ -1,7 +1,7 @@
 # Portfolio-Website-
 My personal portfolio website built using React.js .
 
- Objective
+ Objective:
 
 The main objective of this project is to create a personal portfolio website that showcases personal details, academic background, skills, and projects.
 
@@ -28,7 +28,7 @@ Portfolio Website
 ├── main.js
 └── README.md
 
-Real World Applications
+Real World Applications:
 
 Used by students and professionals to display portfolios.
 
