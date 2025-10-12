@@ -59,7 +59,7 @@ Clean, modern, and professional UI 🎨
 
 1. Clone the repository
 
-git clone [your-repo-link]
+git clone [https://github.com/annimol1701/Portfolio-Website-]
 
 
 2. Open the project folder
@@ -76,7 +76,8 @@ git clone [your-repo-link]
 
 
 🔗 Live Demo:
-[Insert live link]
+  https://portfolio-ebsite.netlify.app/
+
 
 
 
